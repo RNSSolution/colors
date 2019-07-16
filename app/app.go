@@ -31,14 +31,14 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/supply"
 )
 
-const appName = "GaiaApp"
+const appName = "ColorApp"
 
 var (
-	// default home directories for gaiacli
-	DefaultCLIHome = os.ExpandEnv("$HOME/.gaiacli")
+	// default home directories for colorcli
+	DefaultCLIHome = os.ExpandEnv("$HOME/.colorcli")
 
-	// default home directories for gaiad
-	DefaultNodeHome = os.ExpandEnv("$HOME/.gaiad")
+	// default home directories for colord
+	DefaultNodeHome = os.ExpandEnv("$HOME/.colord")
 
 	// The ModuleBasicManager is in charge of setting up basic,
 	// non-dependant module elements, such as codec registration
