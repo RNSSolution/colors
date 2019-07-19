@@ -6,6 +6,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/RNSSolution/colors-sdk v0.28.2-0.20190719061929-14b96b919451 h1:XA9nDj8IoYOZpCuKEwMYdF3+I+R2ltV1HTqwtOgjtZo=
 github.com/RNSSolution/colors-sdk v0.28.2-0.20190719061929-14b96b919451/go.mod h1:UV765S3m9sxCg8rYaBr4XgeHZl2UP6y++Coz9mLlYFc=
+github.com/RNSSolution/colors-sdk v0.28.2-0.20190719072733-5686479c59c8 h1:qE7tZIwZlO9E/cGqEdvAHT4gEdDHl5q873m7+gIgMng=
+github.com/RNSSolution/colors-sdk v0.28.2-0.20190719072733-5686479c59c8/go.mod h1:UV765S3m9sxCg8rYaBr4XgeHZl2UP6y++Coz9mLlYFc=
 github.com/VividCortex/gohistogram v1.0.0 h1:6+hBz+qvs0JOrrNhhmR7lFxo5sINxBCGXrdtl/UvroE=
 github.com/VividCortex/gohistogram v1.0.0/go.mod h1:Pf5mBqqDxYaXu3hDrrU+w6nw50o/4+TcAqDqk/vUH7g=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
