@@ -37,4 +37,4 @@ require (
 	google.golang.org/grpc v1.22.0 // indirect
 )
 
-replace github.com/cosmos/cosmos-sdk => github.com/RNSSolution/colors-sdk v0.28.2-0.20190719072733-5686479c59c8
+replace github.com/cosmos/cosmos-sdk => github.com/RNSSolution/color-sdk v0.28.2-0.20190719072733-5686479c59c8
